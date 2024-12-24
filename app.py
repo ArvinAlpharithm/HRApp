@@ -64,7 +64,7 @@ html_content = """
                 transform: scale(1);
             }
             .overlay {
-                height: 300px;
+                height: 320px;
             }
         }
         
